@@ -46,3 +46,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.container {
+    padding: 5% 15%;
+    background: rgba(0, 0, 0, 0.5) none repeat scroll 0% 0%;
+}
