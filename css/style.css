@@ -6,6 +6,7 @@ html {
 body {
     margin: 0px auto;
     width: 100%;
+    color: white;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -31,7 +32,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: white;
 }
 footer {
     border-top: 1px solid #d5d5d5;
